@@ -2,6 +2,8 @@
 
 Drivers for HX711 24-bit Analog-to-Digital Converter for Load Cell weighing scales.
 
+Goal is to built an accurate miniture scale with wifi connection.
+
 Components:
 
 - Pi Pico Microprocessor
