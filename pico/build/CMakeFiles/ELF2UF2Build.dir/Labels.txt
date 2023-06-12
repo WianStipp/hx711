@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/Users/wianstipp/Desktop/projects/hx711/pico/build/CMakeFiles/ELF2UF2Build
+/Users/wianstipp/Desktop/projects/hx711/pico/build/CMakeFiles/ELF2UF2Build.rule
+/Users/wianstipp/Desktop/projects/hx711/pico/build/CMakeFiles/ELF2UF2Build-complete.rule
+/Users/wianstipp/Desktop/projects/hx711/pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/Users/wianstipp/Desktop/projects/hx711/pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/Users/wianstipp/Desktop/projects/hx711/pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/Users/wianstipp/Desktop/projects/hx711/pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/Users/wianstipp/Desktop/projects/hx711/pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/Users/wianstipp/Desktop/projects/hx711/pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/Users/wianstipp/Desktop/projects/hx711/pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
