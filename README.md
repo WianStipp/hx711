@@ -8,5 +8,5 @@ Components:
 
 - Pi Pico Microprocessor
 - HX711 ADC
-- Waveshare Pico-LCD-1.8
+- Waveshare Pico-LCD-1.8 or 1.14
 - Waveshare Pico-ESP8266
