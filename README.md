@@ -2,7 +2,9 @@
 
 Drivers for HX711 24-bit Analog-to-Digital Converter for Load Cell weighing scales.
 
-Goal is to built an accurate miniture scale with wifi connection.
+Goal is to built an accurate miniture scale with a display & wifi connection.
+
+Datasheet: https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf
 
 Components:
 
