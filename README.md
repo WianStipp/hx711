@@ -1,5 +1,8 @@
 # hx711
 
+<img src="images/demo_screen_070823.jpg" width="280">
+
+
 Drivers for HX711 24-bit Analog-to-Digital Converter for Load Cell weighing scales.
 
 Goal is to built an accurate miniture scale with a display & wifi connection.
