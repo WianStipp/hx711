@@ -1,4 +1,4 @@
-# hx711
+# hx711 weighing scales
 
 Still in prototype phase. Most up-to-date script is `prototyping/main.py` in which the Pico reads in data (by pulsing the clock pin) across through GIO from the HX711. Each data point is then displayed on the LCD screen, which uses some basic precomputed callibration values. Next steps are to improve the hardware layout a little and create tare functionality.
 
